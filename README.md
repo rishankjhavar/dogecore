@@ -15,9 +15,9 @@ npm install dogecore
 
 ## Documentation
 
-EVERYTHING from litecore works with Dogecore. Nothing new has been introduced, this is a simple port of litecore for Dogecoin. You can follow the OG litecore documentation for reference: [litecore documentation](http://litecore.io/).
+EVERYTHING from bitcore works with Dogecore. Nothing new has been introduced, this is a simple port of bitcore for Dogecoin. You can follow the OG bitcore documentation for reference: [litecore documentation](http://bitcore.io/).
 
-- [Read the Litecore Developer Guide](http://litecore.io/guide/)
+- [Read the Bitcore Developer Guide](http://bitcore.io/guide/)
 
 To get community assistance and ask for help with implementation questions, please use [reddit](https://www.reddit.com/r/dogecoin/).
 
@@ -37,5 +37,4 @@ To get community assistance and ask for help with implementation questions, plea
 ## Note
 
 Dogecore is a simple port of bitcore by bitpay. It was originally ported by Dogesight, and this lib is put on my git and npm for accessibility. It is based on an old version of bitcore, so contributions are encouraged.
-
 
