@@ -15,7 +15,7 @@ npm install dogecore
 
 ## Documentation
 
-EVERYTHING from bitcore works with Dogecore. Nothing new has been introduced, this is a simple port of bitcore for Dogecoin. You can follow the OG bitcore documentation for reference: [litecore documentation](http://bitcore.io/).
+EVERYTHING from bitcore works with Dogecore. Nothing new has been introduced, this is a simple port of bitcore for Dogecoin. You can follow the OG bitcore documentation for reference: [bitcore documentation](http://bitcore.io/).
 
 - [Read the Bitcore Developer Guide](http://bitcore.io/guide/)
 
